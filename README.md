@@ -52,23 +52,3 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ke-stack&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
- 
-  
-
-<br/>  
-
-
-<br />
-
-
