@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelvin
+- 👋 Hi, I’m Kelvin King'ori
 - 👀 I’m interested in Web Developement using Python and Javascript. 
 - 🌱 I’m currently learning React
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
