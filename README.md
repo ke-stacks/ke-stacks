@@ -56,7 +56,5 @@ Comments are never displayed
 
 </td></tr></table>  
 
-<br/>  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<br/> 
 
