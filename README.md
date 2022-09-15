@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin King'ori
-- 👀 I’m interested in Software Developement. 
+- 👀 I’m interested in Software Developement... 
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 
