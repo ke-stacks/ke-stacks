@@ -37,7 +37,7 @@ Comments are never displayed
 <div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="30" />
+<img style="margin: 10px" src="https://www.turing.com/blog/wp-content/uploads/2022/01/Django-vs-Flask-1.jpg" alt="Django" height="30" />
 <!--
 <img style="margin: 10px" src="https://imgs.search.brave.com/AA77RQK94zyuuKiaYb8IBthnjrrQlc1XpBvSiXOs0CE/rs:fit:752:440:1/g:ce/aHR0cHM6Ly9pbm5v/dmF0aW9ueW91cnNl/bGYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA4L25v/ZGVqcy1sb2dvLTc1/Mng0NDAucG5n" alt="Node.js" height="30" />
 -->
