@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin King'ori
 - 👀 I’m interested in Software Developement... 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Docker and Kubernetes.
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 
 <!---
