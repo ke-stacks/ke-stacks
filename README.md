@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin King'ori
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Javascript (React and Nodejs) and Kotlin ft Firebase for Android Development.
+- 🌱 I’m currently learning Java and Springboot.
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 
 <!---
