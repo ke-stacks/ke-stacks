@@ -47,7 +47,6 @@ Comments are never displayed
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="30" />
-<img style="margin: 10px" src="https://www.fullstackpython.com/img/logos/heroku.png" alt="Heroku" height="30" />
 <img style="margin: 10px" src="https://imgs.search.brave.com/MoRoJXUuzmOOQA101VhZYxbWHOnrJSPJkxNSQ9cnO8U/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/YXBwY29kYS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTYv/MTEvZmlyZWJhc2Vf/bG9nb19zaG90LnBu/Zw" alt="Firebase" height="30" />
 </div>
 
