@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kelvin King'ori
+- 👋 Hi, I’m Kelvin Kahuho
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java and Springboot.
+- 🌱 I’m currently learning front-end technologies(HTML,CSS, JS and Ractjs).
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 
 <!---
