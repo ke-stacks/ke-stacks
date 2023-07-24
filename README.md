@@ -53,7 +53,6 @@ Comments are never displayed
 </td></tr></table>  
 
 <br/>
-<!--
+
 <a href="https://wakatime.com/@0adb85b0-f257-4e16-9823-52c8a627fa3a"><img src="https://wakatime.com/badge/user/0adb85b0-f257-4e16-9823-52c8a627fa3a.svg" alt="Total time coded since Jul 6 2022" /></a>
--->
 
