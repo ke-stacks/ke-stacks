@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin Kahuho
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning React.js 
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 
 <!---
