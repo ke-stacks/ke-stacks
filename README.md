@@ -15,9 +15,12 @@ Comments are never displayed
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 - ⚡ Fun fact: The world's first website, created by Tim Berners-Lee, is still online! It's a simple page explaining the basics of the World Wide Web - http://info.cern.ch/
 
+<!--
 <br>
 <a href="https://wakatime.com/@0adb85b0-f257-4e16-9823-52c8a627fa3a"><img src="https://wakatime.com/badge/user/0adb85b0-f257-4e16-9823-52c8a627fa3a.svg" alt="Total time coded since Jul 6 2022" /></a>
 <br>
+-->
+
 
 
 ## 🌐 Socials:
