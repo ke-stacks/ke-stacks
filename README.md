@@ -9,9 +9,7 @@ Comments are never displayed
 - 👀 I’m interested in Software Engineering.
 - 🔭 I’m currently exploring various open-source projects.
 - 👯 I’m looking to collaborate on projects that involve AI, web development, and anything that challenges me to think creatively.
-- 🤝 I’m looking for help with mastering advanced Git techniques and understanding more about DevOps practices.
 - 🌱 I’m currently learning about containerization and microservices architecture to enhance my application deployment skills.
-- 💬 Ask me about programming tips, version control strategies, or how to approach complex problem-solving in software development.
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
 - ⚡ Fun fact: The world's first website, created by Tim Berners-Lee, is still online! It's a simple page explaining the basics of the World Wide Web - http://info.cern.ch/
 
