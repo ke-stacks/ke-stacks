@@ -5,9 +5,7 @@ Comments are never displayed
 --->
 - 👋 Hi, I’m Kelvin Kahuho
   
-- 👀 I’m interested in Machine Learning and Software Engineering.
-
-- 🌱 I’m currently learning about containerization and microservices architecture to enhance my application deployment skills.
+- 👀 I’m interested in Machine Learning.
 
 - 📫 How to reach me Call +254741559592 or Email: kingorikelvin883@gmail.com
   
