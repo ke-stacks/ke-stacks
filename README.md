@@ -5,7 +5,7 @@ Comments are never displayed
 --->
 - Hi, I’m Kelvin Kahuho
   
-- I’m interested in Fullstack Web Development.
+- I’m interested in Backend Development and Machine Learning.
 
 - Phone: +254741559592 Email: k.kelvinkahuho@gmail.com
   
